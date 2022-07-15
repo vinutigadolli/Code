@@ -1,2 +1,2 @@
 # Code
-Compilation OF Python Programming Codes
+Compilation OF Machine Learning Algorithms using Python Programming Language.
